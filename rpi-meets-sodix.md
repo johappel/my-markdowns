@@ -7,6 +7,9 @@ slideOptions:
     enabled: false
   transition: 'slide'
 ---
+
+[![hackmd-github-sync-badge](https://hackmd.io/AzletlmdQv-xgAcFc0bOzQ/badge)](https://hackmd.io/AzletlmdQv-xgAcFc0bOzQ)
+
 <!-- .slide: data-background-color="#C95600" -->
 
 # Sodix trifft rpi
